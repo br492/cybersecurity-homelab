@@ -70,7 +70,7 @@ Screenshots of my homelab environment, services, dashboards, and configurations.
 <!-- Add screenshot here -->
 
 ### Prometheus / Grafana
-<!-- Add screenshot here -->
+![Prometheus / Grafana](1780879149234.jpeg)
 
 ---
 
