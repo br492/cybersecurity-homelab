@@ -58,19 +58,19 @@ Used to visualize monitoring data and create dashboards to better understand sys
 Screenshots of my homelab environment, services, dashboards, and configurations.
 
 ### Homelab Overview
-![Homelab Overview](1780879150842.jpeg)
+![Homelab Overview](homelab.jpeg)
 
 ### Docker / Portainer
-![Docker / Portainer](1780879149654.jpeg)
+![Docker / Portainer](portainer.jpeg)
 
 ### Homepage Dashboard
-![Homepage Dashboard](1780879150468.jpeg)
+![Homepage Dashboard](homepage.jpeg)
 
 ### Uptime Kuma
-![Uptime Kuma](1780879150230.jpeg)
+![Uptime Kuma](UptimeKuma.jpeg)
 
 ### Prometheus / Grafana
-![Prometheus / Grafana](1780879149234.jpeg)
+![Prometheus / Grafana](grafana1.jpeg)
 
 ---
 
